@@ -1,4 +1,7 @@
 # Customized T-Shirt
+![Screenshot 2023-06-21 213609](https://github.com/gayathrip2000/CustomizedT-ShirtWebSite/assets/99193625/0aaf83c9-638b-44af-996b-5bdd7cf2b38f)
+
+
 This website is centered around creating an engaging platform for users to personalize their t-shirts through color and logo customization. Upon visiting the website, users are presented with an interactive interface that allows them to customize their t-shirts. Through intuitive controls and user-friendly design, they can select different t-shirt colors from a palette and choose from a wide array of logos.
 
 
@@ -9,7 +12,6 @@ To enhance interactivity and user engagement, Framer Motion, a popular animation
 
 
 
-![Screenshot 2023-06-21 213609](https://github.com/gayathrip2000/CustomizedT-ShirtWebSite/assets/99193625/0aaf83c9-638b-44af-996b-5bdd7cf2b38f)
 
 
 
